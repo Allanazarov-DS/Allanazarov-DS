@@ -1,18 +1,31 @@
-# Sardor Allanazarov
+<h1 align="center">Hi 👋, I'm Sardor Allanazarov</h1>
+<h3 align="center">A Data Science Enthusiast from Uzbekistan</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sardor-allanazarov) 
-[![GitHub](https://img.shields.io/badge/GitHub-Allanazarov--DS-black)](https://github.com/Allanazarov-DS)
+## 💬 Ask me about
+- Data Analysis and Visualization (Python, Pandas, Power BI)
+- Machine Learning and Statistics
+- SQL and Database Management
+- Streamlit Web Applications
+- Data Cleaning and Manipulation
+- Problem-solving on LeetCode
+- Chess strategies
 
-Aspiring Data Scientist with a strong foundation in Python, SQL, and Power BI, complemented by experience in data visualization, machine learning, and web development using Streamlit. Passionate about solving complex problems and continuously improving my skills through hands-on projects and LeetCode challenges.
+## 📅 Hobbies
+- Solve programming challenges on LeetCode
+- Read about the latest in data science and technology
+- Play chess
+- Explore data-driven projects
 
-### Key Projects:
-- **Academic Success Prediction:** Developed a Streamlit app to predict academic outcomes.
-- **Movie Recommender System:** Created a machine learning-based recommendation tool.
-- **Crab Age Prediction:** Analyzed crab data, winning a modeling tournament at Najot Ta'lim.
-- **NBA Stats Explorer:** Built an interactive platform for exploring NBA player stats.
+## 💻 Current projects
+- Academic Success Prediction [WIP] - Predicting academic outcomes using machine learning
+- Movie Recommender System [WIP] - Recommending movies based on user preferences
+- Crab Age Prediction [WIP] - Predicting crab age using regression models
+- NBA Player Stats Explorer [WIP] - Exploring NBA player statistics with interactive visualizations
 
-### Education:
-- **National University of Uzbekistan** - World Economy (Distance Learning)
-- **Najot Ta'lim IT Training Center** - Data Science Course
+## 📚 Learning
+- Advanced Machine Learning Techniques
+- SQL optimization and database performance tuning
+- Streamlit for more complex web applications
+- Deepening my knowledge in Power BI for business analytics
 
 
