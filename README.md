@@ -78,8 +78,7 @@ I'm a passionate **Data Scientist and Analyst** with expertise in Python, SQL, a
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allanazarov-DS&show_icons=true&theme=radical" alt="Sardor's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanazarov-DS&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanazarov-DS&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
