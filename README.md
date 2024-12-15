@@ -6,9 +6,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7931E&lines=Data+Scientist+%7C+Machine+Learning+Enthusiast;SQL+Expert+%7C+Problem-Solver;Passionate+about+AI+%7C+Chess+Player" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Allanazarov-DS&show_icons=true&theme=radical" alt="Sardor's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanazarov-DS&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
-
 ---
 
 <p align="center">
