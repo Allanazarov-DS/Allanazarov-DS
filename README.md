@@ -78,8 +78,9 @@ I'm a passionate **Data Scientist and Analyst** with expertise in Python, SQL, a
 ---
 
 <p align="center">
-  <img src="https://skyline.github.com/Allanazarov-DS/2023.svg" alt="GitHub Skyline Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allanazarov-DS&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ---
