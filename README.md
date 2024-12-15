@@ -6,18 +6,9 @@
 </h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Allanazarov-DS&show_icons=true&theme=radical" alt="Sardor's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanazarov-DS&theme=radical" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Allanazarov-DS&show_icons=true&theme=radical" alt="Sardor's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanazarov-DS&theme=radical" alt="GitHub Streak" />
 </p>
----
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Allanazarov-DS?label=Followers&style=social" />
@@ -118,11 +109,7 @@ I'm a passionate **Data Scientist and Analyst** with expertise in Python, SQL, a
 - Playing chess and exploring its analytical aspects.
 - Building interactive and meaningful projects.
 
----
 
-<p align="center">
-  <img src="https://github.com/Allanazarov-DS/Allanazarov-DS/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
 
 
 
