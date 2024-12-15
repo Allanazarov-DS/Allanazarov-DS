@@ -78,8 +78,9 @@ I'm a passionate **Data Scientist and Analyst** with expertise in Python, SQL, a
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanazarov-DS&theme=radical" alt="GitHub Streak" />
+  <img src="https://skyline.github.com/Allanazarov-DS/2023.svg" alt="GitHub Skyline Animation" />
 </p>
+
 
 ---
 
