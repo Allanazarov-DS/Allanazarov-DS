@@ -119,6 +119,9 @@ I'm a passionate **Data Scientist and Analyst** with expertise in Python, SQL, a
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Allanazarov-DS/Allanazarov-DS/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
 
 
