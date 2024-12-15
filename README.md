@@ -107,3 +107,9 @@ I'm a passionate **Data Scientist and Analyst** with expertise in Python, SQL, a
 - Reading about advancements in AI and data science.
 - Playing chess and exploring its analytical aspects.
 - Building interactive and meaningful projects.
+
+---
+
+<p align="center">
+  <img src="https://github.com/Allanazarov-DS/Allanazarov-DS/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
