@@ -116,5 +116,6 @@ I'm a passionate **Data Scientist and Analyst** with expertise in Python, SQL, a
 
 
 <p align="center">
-  <img src="https://github.com/Allanazarov-DS/Allanazarov-DS/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allanazarov-DS&theme=react-dark" alt="Activity Graph" />
 </p>
+
