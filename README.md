@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Allanazarov-DS&show_icons=true&theme=radical" alt="Sardor's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanazarov-DS&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
